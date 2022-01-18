@@ -1,0 +1,11 @@
+﻿body {
+    width: 400px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+input {
+    list-style-type: none;
+    width: 350px;
+}
